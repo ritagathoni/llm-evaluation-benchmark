@@ -1,0 +1,5 @@
+metric,value
+total_evaluated_responses,20.0
+average_overall_score,4.19
+hallucination_rate_percent,10.0
+instruction_failure_rate_percent,15.0
