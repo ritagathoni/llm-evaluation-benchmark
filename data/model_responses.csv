@@ -1,0 +1,36 @@
+response_id,prompt_id,model_id,response_text
+R001A,P001,Model_A,"The capital city of Kenya is Nairobi."
+R001B,P001,Model_B,"Kenya's capital is Nairobi, which is also the country's largest city and a major economic centre in East Africa."
+R002A,P002,Model_A,"Weather describes short-term atmospheric conditions such as today's temperature or rainfall. Climate describes the usual pattern of weather in a place over many years."
+R002B,P002,Model_B,"Weather and climate mean almost the same thing. Weather is what happens outside while climate is mainly used by scientists to describe temperature."
+R003A,P003,Model_A,"The liver performs several important functions, including processing nutrients, producing bile, storing energy as glycogen, helping remove toxins from the blood, producing important blood proteins, and supporting metabolism."
+R003B,P003,Model_B,"The liver mainly pumps blood around the body and produces insulin to control blood sugar."
+R004A,P004,Model_A,"- Exercise supports cardiovascular health.
+- Exercise can improve strength and physical fitness.
+- Exercise can support mental wellbeing."
+R004B,P004,Model_B,"Exercise is beneficial for many reasons. First, it helps your heart. Second, it strengthens muscles. Third, it can improve mood. Regular exercise can also improve sleep quality."
+R005A,P005,Model_A,"Remote work can provide greater flexibility while potentially reducing opportunities for informal collaboration."
+R005B,P005,Model_B,"Remote work gives people flexibility. However, it can reduce informal collaboration, make communication harder, affect team culture, and require organisations to rethink how employees work together."
+R006A,P006,Model_A,"Subject: Meeting reschedule
+
+Hi Sarah,
+
+Thank you for the invitation. Unfortunately, I am unable to attend at the proposed time. I would be available instead on Tuesday at 10:00 AM or Wednesday at 2:00 PM.
+
+Please let me know whether either option works for you.
+
+Best,
+Rita"
+R006B,P006,Model_B,"Hi Sarah,
+
+I won't be able to make the meeting because I have another commitment and several deadlines that I need to finish first. Could we perhaps find another time later in the week when everyone is available? I should be relatively flexible on most afternoons, although Tuesday and Thursday may be difficult.
+
+Thanks."
+R007A,P007,Model_A,"The discount is $20 because $80 - $60 = $20. The percentage discount is 20 / 80 × 100 = 25%. Therefore, the item was discounted by 25%."
+R007B,P007,Model_B,"The price dropped by $20. Since 20 divided by 60 is about 0.333, the discount is approximately 33.3%."
+R008A,P008,Model_A,"We can conclude that Rita attends the weekly meeting because the premise states that all project managers attend, and Rita is a project manager."
+R008B,P008,Model_B,"Rita probably attends the meeting, but we cannot know for certain because some project managers may choose not to attend."
+R009A,P009,Model_A,"No. A 20% increase takes revenue from $100,000 to $120,000. A subsequent 20% decrease is calculated from $120,000, so the decrease is $24,000. Revenue becomes $96,000, not $100,000."
+R009B,P009,Model_B,"Yes. Increasing revenue by 20% and then decreasing it by 20% cancels the changes out, so revenue returns to $100,000."
+R010A,P010,Model_A,"Use the 30 minutes to review the meeting objective, scan any relevant documents, write down two or three key points you want to raise, and check whether you need to provide any updates or decisions."
+R010B,P010,Model_B,"You could prepare by reading everything related to the meeting, researching the participants, reviewing previous reports, preparing a presentation, writing detailed notes, checking your email, organising your files, and practising what you plan to say."
