@@ -154,3 +154,25 @@ Each evaluated response will contain fields such as:
   "preference_rank": 1,
   "evaluation_rationale": "The response directly addresses the request, follows instructions, and provides accurate information with only minor omissions."
 }
+
+
+## Benchmark results
+
+The benchmark evaluated 20 model responses using a structured scoring framework.
+
+- **Average overall score:** 4.19/5
+- **Hallucination rate:** 10%
+- **Instruction failure rate:** 15%
+- **Responses ranked as preferred:** 10
+
+### Most common failure types
+
+The evaluation identified factual errors as the most common failure type, followed by reasoning and instruction-following errors.
+
+- Factual error: 5
+- Reasoning error: 3
+- Instruction failure: 3
+- Hallucination: 2
+- Incomplete response: 2
+- Format failure: 1
+- User intent miss: 1
