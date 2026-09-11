@@ -176,3 +176,12 @@ The evaluation identified factual errors as the most common failure type, follow
 - Incomplete response: 2
 - Format failure: 1
 - User intent miss: 1
+### Key findings
+
+The benchmark shows a clear difference between responses that are fluent and responses that are genuinely reliable.
+
+Factual errors were the most common failure type, appearing five times. Reasoning and instruction-following errors appeared three times each.
+
+The benchmark achieved an average overall score of 4.19/5. Hallucinations were detected in 10% of evaluated responses, while instruction failures occurred in 15%.
+
+These results show why LLM evaluation needs multiple dimensions. A response can appear well-written while still containing factual, reasoning, or instruction-following problems.
